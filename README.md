@@ -40,7 +40,6 @@ Napisz programy pokazujące różnice w ich działaniu.
 * w prawo ze znakiem `>>` 
 * w prawo bez znaku `>>>` 
 
-(http://jlaskowski.blogspot.com/2012/01/o-operatorach-przesuniec-w-javieprawie.html)
 (http://java.oeiizk.waw.pl/info/operator.html)
 
 
