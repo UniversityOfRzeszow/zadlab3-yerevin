@@ -30,7 +30,7 @@ public static void main(String[] arg){
 ### 1.3 Czym różnią się operatory:
 
 *	`&&` od `&`
-*	`|` od `|`
+*	`||` od `|`
 
 Napisz programy pokazujące różnice w ich działaniu.
 
