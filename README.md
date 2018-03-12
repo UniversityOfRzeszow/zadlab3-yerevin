@@ -3,7 +3,7 @@ Operatory, rekurencja, typ łańcuchowy
 
 [1 Operatory](https://github.com/UniversityOfRzeszow/ObjectiveProgrammingLab3/blob/master/README.md#1-operatory-%C5%82a%C5%84cuchowe)
 
-[1 Typ łańcuchowy](https://github.com/UniversityOfRzeszow/ObjectiveProgrammingLab3/blob/master/README.md#2-typ-%C5%82a%C5%84cuchowy)
+[2 Typ łańcuchowy](https://github.com/UniversityOfRzeszow/ObjectiveProgrammingLab3/blob/master/README.md#2-typ-%C5%82a%C5%84cuchowy)
 
 [3 Rekursja](https://github.com/UniversityOfRzeszow/ObjectiveProgrammingLab3/blob/master/README.md#3-rekursja-rekurencja)
 
@@ -39,6 +39,10 @@ Napisz programy pokazujące różnice w ich działaniu.
 * w lewo ze znakiem `<<`
 * w prawo ze znakiem `>>` 
 * w prawo bez znaku `>>>` 
+
+(http://jlaskowski.blogspot.com/2012/01/o-operatorach-przesuniec-w-javieprawie.html)
+(http://java.oeiizk.waw.pl/info/operator.html)
+
 
 ### 1.5 Dany jest fragment kodu:
 
