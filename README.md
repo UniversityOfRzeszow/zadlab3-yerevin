@@ -192,3 +192,5 @@ W celu wykonania zadania zapoznaj się z następującym materiałem: http://pl.w
 
 W celu wykonania zadania zapoznaj się z następującym materiałem: http://pl.wikipedia.org/wiki/Wie%C5%BCe_Hanoi.
 
+
+###### Opracował dr inż. Wojciech Kozioł
