@@ -1,9 +1,11 @@
 # ObjectiveProgrammingLab3
 Operatory, rekurencja, typ łańcuchowy
 
-[1 Operatory]()
-[1 Typ łańcuchowy]()
-[3 Rekursja]()
+[1 Operatory](https://github.com/UniversityOfRzeszow/ObjectiveProgrammingLab3/blob/master/README.md#1-operatory-%C5%82a%C5%84cuchowe)
+
+[1 Typ łańcuchowy](https://github.com/UniversityOfRzeszow/ObjectiveProgrammingLab3/blob/master/README.md#2-typ-%C5%82a%C5%84cuchowy)
+
+[3 Rekursja](https://github.com/UniversityOfRzeszow/ObjectiveProgrammingLab3/blob/master/README.md#3-rekursja-rekurencja)
 
 
 # 1 Operatory łańcuchowe
