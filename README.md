@@ -8,7 +8,7 @@ Operatory, rekurencja, typ łańcuchowy
 [3 Rekursja](https://github.com/UniversityOfRzeszow/ObjectiveProgrammingLab3/blob/master/README.md#3-rekursja-rekurencja)
 
 
-# 1 Operatory łańcuchowe
+# 1 Operatory
 
 ## Zadania 
 ### 1.1 Co zwróci poniższy program. Uzasadnij odpowiedź.
